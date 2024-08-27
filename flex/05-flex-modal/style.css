@@ -15,6 +15,15 @@ body {
   justify-content: center;
 }
 
+.center {
+  display: flex;
+
+  /* DEBUG BORDERS */
+ border-style: solid; 
+ border-width: 2px; 
+ border-color: #000000; 
+}
+
 .modal {
   background: white;
   width: 480px;
