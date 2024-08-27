@@ -10,6 +10,7 @@ img {
 
 .container {
   display: flex;
+  justify-content: center;
   gap: 52px;
 
   /* DEBUG BORDERS */
@@ -19,6 +20,8 @@ img {
 }
 
 .item {
+  flex-basis: 200px;
+
   /* DEBUG BORDERS */
  border-style: solid; 
  border-width: 2px; 
