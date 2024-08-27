@@ -9,7 +9,18 @@ img {
 
 .container {
   display: flex;
-  justify-content: center;
+
+  /* DEBUG BORDERS */
+ border-style: solid; 
+ border-width: 2px; 
+ border-color: #000000; 
+}
+
+.item {
+  /* DEBUG BORDERS */
+ border-style: solid; 
+ border-width: 2px; 
+ border-color: #000000; 
 }
 
 .title {
