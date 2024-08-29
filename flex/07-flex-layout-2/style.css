@@ -79,6 +79,10 @@ a {
   color: white;
 }
 
+li {
+  margin-bottom: 10px;
+}
+
 ul {
   list-style: none;
   margin: 0;
