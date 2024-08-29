@@ -45,6 +45,7 @@ border-color: #00FF00;
   flex-shrink: 0;
   font-size: 24px;
   padding: 16px;
+  
 
   /* DEBUG BORDERS */
 border-style: solid;
@@ -56,11 +57,21 @@ border-color: #00FF00;
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 200px;
+  padding: 16px;
+
 
   /* DEBUG BORDERS */
 border-style: solid;
 border-width: 2px; 
 border-color: #00FF00; 
+}
+
+.card-group {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  gap: 16px;
 }
 
 a {
