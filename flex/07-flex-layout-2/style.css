@@ -41,6 +41,7 @@ border-color: #00FF00;
   background: royalblue;
   box-sizing: border-box;
   flex-shrink: 0;
+  font-size: 24px;
 
   /* DEBUG BORDERS */
 border-style: solid;
@@ -57,4 +58,13 @@ border-color: #00FF00;
 border-style: solid;
 border-width: 2px; 
 border-color: #00FF00; 
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style: none;
 }
