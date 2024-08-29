@@ -35,6 +35,7 @@ border-color: #00FF00;
 
 .main {
   display: flex;
+  flex: 1;
 }
 
 .sidebar {
